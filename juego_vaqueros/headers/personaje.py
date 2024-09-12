@@ -1,7 +1,6 @@
 import pygame
 import random
 
-# Dimensiones de la pantalla
 ANCHO_PANTALLA = 800
 ALTO_PANTALLA = 600
 velocidad_bala = 5
